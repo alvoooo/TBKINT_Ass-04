@@ -1,0 +1,47 @@
+body{
+    margin: 2px;
+}
+h1{
+    color: Red;
+}
+h2{
+    color:chocolate;
+}
+h1,h2{
+    background-color:orange;
+    text-align: center;
+}
+p{
+    color:maroon;
+    font-family:'Times New Roman', Times, serif;
+}
+table{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse:collapse;
+  
+}
+th{
+    text-align: center;
+    color:red;
+}
+td{
+    color:purple;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+ .alert
+        { 
+          padding: 20px;
+          background-color: #f44336;
+          color: white;
+        }
